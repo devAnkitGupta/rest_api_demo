@@ -1,5 +1,5 @@
 export default {
     port: 1337,
-    dbUri: "mongodb+srv://ankit:test1234@cluster0.hi6oxvw.mongodb.net/?retryWrites=true&w=majority",
+    dbUri: "mongodb+srv://ankit1234:ankit1234@clusterapidemo.20fwlfk.mongodb.net/?retryWrites=true&w=majority",
     saltWorkFactor: 10,
 }
